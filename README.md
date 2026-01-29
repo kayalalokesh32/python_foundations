@@ -1,2 +1,2 @@
 # python_foundations
-For repository my python practice.
+I created this repo for my python practice.
